@@ -15,9 +15,9 @@ Due to the limited number of attendees we can sponsor, there is a competitive ap
 
 1. Complete the [application form](https://forms.office.com/r/R4A1JyB3Xf)
 2. Complete a coding challenge.
-  1. 3rd and 4th year students must complete the [Team A challenge](https://github.com/uwindsorcss/csgames-2023-team-a-question)
-  2. 1st and 2nd year students must complete the [Team B challenge](https://github.com/uwindsorcss/csgames-2023-team-b-question)
-    * **Note:** if you're a 1st or 2nd year student and would like to try the Team A challenge, you're free to do so! Just note it is not mandatory for you to do so.
+    - 3rd and 4th year students must complete the [Team A challenge](https://github.com/uwindsorcss/csgames-2023-team-a-question)
+    - 1st and 2nd year students must complete the [Team B challenge](https://github.com/uwindsorcss/csgames-2023-team-b-question)
+      - **Note:** if you're a 1st or 2nd year student and would like to try the Team A challenge, you're free to do so! Just note it is not mandatory for you to do so.
 3. Wait for a response from our team for next steps.  
 
 **DEADLINE:** The deadline for completing the application form and coding challenge is **DECEMBER 2 @ 11:59pm**!
@@ -30,7 +30,7 @@ March 17-19, 2023
 
 ### Will I Need to Pay for Transportation and Lodging if I Attend? 
 
-CSS will pay for your transportation to and from the event!
+CSS will pay for your transportation to and from the event, as well as shared lodging.
 
 ### Where is CS Games Hosted?
 
@@ -39,8 +39,8 @@ This year, CS Games is hosted at Université du Québec à Chicoutimi (UQAC).
 ### How do I Submit the Coding Challenge?
 
 1. Visit the respective URL for your challenge
-  1. 3rd and 4th year students must complete the [Team A challenge](https://github.com/uwindsorcss/csgames-2023-team-a-question)
-  2. 1st and 2nd year students must complete the [Team B challenge](https://github.com/uwindsorcss/csgames-2023-team-b-question)
+    - 3rd and 4th year students must complete the [Team A challenge](https://github.com/uwindsorcss/csgames-2023-team-a-question)
+    - 1st and 2nd year students must complete the [Team B challenge](https://github.com/uwindsorcss/csgames-2023-team-b-question)
 2. Fork the repository to your personal GitHub account.
 3. Upload your solutions to your fork.
 4. Create a **pull request** to submit your solution.
