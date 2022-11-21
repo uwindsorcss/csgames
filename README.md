@@ -2,12 +2,11 @@
 
 ## What is CS Games?
 
-**The Computer Science Games are a collegiate competition that includes challenges from all aspects of computing - happening March 17-19, 2023**
-
-The Games are a weekend long thrill ride with logic puzzles, difficult algorithms, intense video game competitions, social activities, and of course, programming. Organized by students from different university every year, the CS Games is open to all undergraduate students.
+CS Games is an annual 3-day competition hosted by a different school each year, and will be held at Université du Québec à Chicoutimi (UQAC) in March 2023. During the day there are various competitions related to computer science (e.g. web dev, functional programming, artificial intelligence) and **at night they host parties/events**. When you're not participating in an event, there are **TONS of sponsor companies looking to recruit and hand out swag**. It's an amazing experience and **the biggest event that CSS is involved with**. You'll get to learn, explore the city, meet cool people and **possibly land yourself a sweet job**! CSS subsidizes the trip for all twenty students and will be covering some costs (most likely flights) to the event.
 
 Every year, the UWindsor Computer Science Society **sponsors** several CS students to attend the event and represent the university. Typically, we send 2 teams of 10 students (this may be subject to change).  
-We will probably be able to bring two teams, the second team will be mainly first and second years so don't be discouraged from applying if you're in first or second year!
+
+We will probably be able to bring two teams, **the second team will be mainly first and second years so don't be discouraged from applying if you're in first or second year**!
 
 ## How do I Apply?
 
@@ -28,9 +27,9 @@ Due to the limited number of attendees we can sponsor, there is a competitive ap
 
 March 17-19, 2023
 
-### Will I Need to Pay for Transportation and Lodging if I Attend? 
+### Will I Need to Pay to Attend?
 
-CSS will pay for your transportation to and from the event, as well as shared lodging.
+CSS subsidizes the trip for all twenty students and will be covering some costs (most likely flights) to the event.
 
 ### Where is CS Games Hosted?
 
@@ -47,4 +46,4 @@ This year, CS Games is hosted at Université du Québec à Chicoutimi (UQAC).
 
 ## Contact
 
-If you have any questions, comments, or concerns, please send them to css@uwindsor.ca!
+If you have any questions, comments, or concerns, please send them to `css@uwindsor.ca`!
