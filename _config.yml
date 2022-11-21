@@ -2,3 +2,5 @@ theme: jekyll-theme-cayman
 title: CS Games 2023
 description: Information and Application Instructions for the UWindsor CS Games Teams
 show_downloads: false
+github:
+  is_project_page: false
