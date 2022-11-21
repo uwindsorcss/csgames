@@ -44,3 +44,7 @@ This year, CS Games is hosted at Université du Québec à Chicoutimi (UQAC).
 2. Fork the repository to your personal GitHub account.
 3. Upload your solutions to your fork.
 4. Create a **pull request** to submit your solution.
+
+## Contact
+
+If you have any questions, comments, or concerns, please send them to css@uwindsor.ca!
